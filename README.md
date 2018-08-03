@@ -1,6 +1,3 @@
-# VazChocolateCIS430
-<!DOCTYPE html>
-<! -- Luiz Vaz 08/04/2018 -->
 <html lang="en">
 <head>
 	<link rel="stylesheet" href="lv_Screenstyles_W3.css">
@@ -48,7 +45,7 @@
 		&nbsp;<a href="https://socialdraft.com/chocolate-hashtags/" target= _blank>Instagram</a>
 		&nbsp;<a href="https://www.youtube.com/watch?v=UkYPhlpvX9Q" target=_blank>YouTube</a>
 		<p>Search for us on links to Facebook, Twitter, Instagram and YouTube.</p></h3>
-		<p><img style="vertical-align:middle" src="j1.jpg" class="floatcenter" alt="Social Media" width="150" height="75"><span style=""></span></p>
+		<p><img style="vertical-align:middle" src="j1.jpg" class="floatcenter" alt="Social Media" width="150" height="75"></p>
 	</footer>
 </div>
 </body>
