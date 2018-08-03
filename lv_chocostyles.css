@@ -1,0 +1,21 @@
+/* Luiz Vaz 08/04/2018 */
+
+body { color: black;
+	   font-family: "Roman", sans-serif;
+	   background-color: #ec891d; }
+
+#wrapper { width: 80%;
+			margin: 0 auto 0 auto; }
+
+.floatleft { float:left;
+              margin-right: 2%; }
+
+.floatright { float:right;
+               margin-left: 2%; }
+			 
+nav ul { list-style-type: none; }
+			
+.boldtext, dt { font-weight: bold; } 
+
+.floatcenter { float:center;
+              margin-right: 1%; }
